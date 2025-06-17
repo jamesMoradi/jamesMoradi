@@ -6,11 +6,10 @@ I'm a backend developer with a passion for building scalable systems, designing 
 
 ## 💡 What I Do
 
-- 🚀 Develop and maintain robust backend services  
-- 🛠️ Work with modern tech stacks (Node.js, Django, FastAPI, etc.)  
-- 🗃️ Design relational and NoSQL databases  
-- ⚙️ Automate deployments with CI/CD pipelines  
-- 🌐 Build and integrate RESTful & GraphQL APIs  
+-  Develop and maintain robust backend services  
+-  Work with modern tech stacks (Node.js, FastAPI, etc.)  
+-  Automate deployments with CI/CD pipelines  
+-  Build and integrate RESTful & GraphQL APIs  
 
 ---
 
@@ -36,4 +35,4 @@ Tools:        Docker | Git |
 
 ## 📫 Let's Connect
 
-- 💼 [Email](james.js.dev@outlook.com)
+- [Email](james.js.dev@outlook.com)
